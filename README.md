@@ -264,4 +264,4 @@ No game files and no QindieGL binaries are included.
 
 ## License
 
-The proxy code in this repo: MIT. QindieGL, the game, and any other third-party files remain under their own licenses and copyrights.
+The proxy code in this repo: GNU GPL V3. QindieGL, the game, and any other third-party files remain under their own licenses and copyrights.
