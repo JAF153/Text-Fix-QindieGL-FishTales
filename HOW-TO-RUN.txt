@@ -1,0 +1,17 @@
+Step 1:
+- Get QindieGL's release from https://github.com/crystice-softworks/QindieGL/raw/master/bin/QindieGL.1.0.rev5.zip, and unzip/extract it.
+
+Step 2:
+- Add the information from the QindieGL-setup.reg file to the Windows registry. On windows, just double click and allow the registry changes. On Linux/Wine, use wine registry/winetricks
+
+Step 3:
+- Create a folder called QindieGL in the Fish Tales game folder
+
+Step 4:
+- Copy the file called opengl32.dll inside QindieGL.1.0.rev5.zip and paste it inside the QindieGL folder you just created.
+
+Step 5:
+- Download the opengl32.dll inside this repo and paste it directly in the folder containing FishTales.exe (Or build it as per the readme)
+
+Step 6:
+- Play the game :)
