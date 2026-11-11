@@ -43,7 +43,7 @@ The original QindieGL DLL **must keep the name `opengl32.dll`**. It is sensitive
 
 ### 1. Get QindieGL
 
-Use the `opengl32.dll` from the QindieGL project: <https://github.com/crystice-softworks/QindieGL>. The source is there. I don't redistribute the QindieGL binary here; check its license before bundling it anywhere.
+Use the `opengl32.dll` from the QindieGL project: <https://github.com/crystice-softworks/QindieGL>. The source is there.
 
 ### 2. Build the proxy
 
